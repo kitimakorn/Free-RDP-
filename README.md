@@ -3,7 +3,7 @@ This repository is all about getting free windows server 2022 with rdp using git
 
 ## Watch Full Video Guide on My YouTube Channel
 
-[![alt text](https://youtu.be/HRwatE_LRq0)](https://youtu.be/HRwatE_LRq0)
+[![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ63V5hJwl_5-xfSbdH4yoWOENdPSTXO2pbKsBcj16SKA&s)](https://youtu.be/HRwatE_LRq0)
 
 ## Steps To Create Windows Server
 * Sign Up a GitHub Account : https://github.com/
